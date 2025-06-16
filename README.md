@@ -118,3 +118,5 @@ Here's how to use the program via the command line:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code, adhering to the terms outlined in the license.
+
+Update: Audio references
